@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="p_reflect_demo"
+  id="myeclipse.1530783843855"
+  context-root="/p_reflect_demo"
+  j2ee-spec="5.0"
+  archive="p_reflect_demo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
